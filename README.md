@@ -21,8 +21,5 @@ Labled image Generator: VGG Image Annotator — Open source
     ```
 4. The labeled image will be saved at the specified output path.
 
-## Assumptions
-- The labeled image is a grayscale image where each pixel value represents a class label.
-
 ## Notes
 - Optional interactive labeling is included for creating labeled images manually.

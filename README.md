@@ -17,7 +17,7 @@ Labled image Generator: VGG Image Annotator — Open source
 2. Update the paths to the raw image and labeled image in the script.
 3. Run the script:
     ```sh
-    python script_name.py
+    python image_labeling.py
     ```
 4. The labeled image will be saved at the specified output path.
 
